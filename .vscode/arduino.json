@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:leonardo",
+    "sketch": "blink.ino",
+    "port": "/dev/tty.usbmodem14201"
+}
